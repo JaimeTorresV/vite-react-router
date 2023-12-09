@@ -1,0 +1,9 @@
+.contact-container {
+    background-image: url('../../assets/img/fondo.jpg'); /* Ajusta la ruta de la imagen según tu estructura de carpetas */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh; /* Ajusta la altura según tus necesidades */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
