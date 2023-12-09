@@ -23,7 +23,7 @@ function NavbarItem() {
       <Container>
         <CDBBox display="flex" alignItems="center">
           <a href="/" className="d-flex align-items-center p-0 text-dark">
-          <img alt="logo" src="/assets/img/Logo.jpg" width="130px" />
+          <img alt="logo" src="/assets/img/Logo.png" width="130px" />
 
           </a>
         </CDBBox>
