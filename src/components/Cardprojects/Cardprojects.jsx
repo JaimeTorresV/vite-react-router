@@ -14,7 +14,7 @@ function Cardprojects() {
       <MDBCol>
         <MDBCard border="black">
           <MDBCardImage
-            src="\src\assets\img\camera.jpg"
+            src="/src/assets/img/camera.jpg"
             alt="..."
             position="top"
           />
@@ -31,7 +31,7 @@ function Cardprojects() {
       <MDBCol>
         <MDBCard border="black">
           <MDBCardImage
-            src="\src\assets\img\computer.jpg"
+            src="/src/assets/img/computer.jpg"
             alt="..."
             position="top"
           />
@@ -48,7 +48,7 @@ function Cardprojects() {
       <MDBCol>
         <MDBCard border="black">
           <MDBCardImage
-            src="\src\assets\img\server.jpg"
+            src="/src/assets/img/server.jpg"
             alt="..."
             position="top"
           />
@@ -65,7 +65,7 @@ function Cardprojects() {
       <MDBCol>
         <MDBCard border="black">
           <MDBCardImage
-            src="\src\assets\img\software.jpg"
+            src="/src/assets/img/software.jpg"
             alt="..."
             position="top"
           />
